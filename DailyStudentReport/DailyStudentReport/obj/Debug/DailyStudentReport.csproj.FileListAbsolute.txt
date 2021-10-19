@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\obj\Debug\DailyStudentReport.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\obj\Debug\DailyStudentReport.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\bin\Debug\DailyStudentReport.exe.config
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\bin\Debug\DailyStudentReport.exe
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\bin\Debug\DailyStudentReport.pdb
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\obj\Debug\DailyStudentReport.exe
+C:\Users\hebro\OneDrive\Desktop\Basic_C#_Programs\DailyStudentReport\DailyStudentReport\obj\Debug\DailyStudentReport.pdb
